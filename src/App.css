@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Open+Sans:wght@800&family=Roboto:wght@700&display=swap');
